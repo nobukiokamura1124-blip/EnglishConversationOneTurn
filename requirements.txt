@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc==0.47.1
+openai>=1.40.0
+numpy
+av
+soundfile
+ffmpeg-python
